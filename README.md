@@ -12,3 +12,5 @@
 ## Programs I use
 [![My Skills](https://skillicons.dev/icons?i=discord,replit,vscode,github,gitlab,vercel,pycharm,windows,apple)](https://skillicons.dev)
 
+## Websites
+- Full portfilio here: https://shardnetwork.autos
